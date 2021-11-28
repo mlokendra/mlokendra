@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokendra
+- 👋 Hi, I’m @lokendra Final Year UG at IIT Kanpur
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning ElasticSearch (ES-LTR) and haystack
 - 💞️ I’m looking to collaborate on paper or implementation of paper in NLP and 
